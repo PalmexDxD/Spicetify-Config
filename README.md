@@ -1,0 +1,2 @@
+# Spicetify-Config
+Spotify-SpiceConfig
